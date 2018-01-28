@@ -1,1 +1,1 @@
-# multithreaded-ftp-client-server
+# Multithreaded FTP Client/Server
